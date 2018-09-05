@@ -7,7 +7,11 @@ body {
   text-align: center;
   background: url("../images/us\ open\ tennis\ balls.png") no-repeat fixed center;
   /* background-image: url("../images/US\ OPEN.png") */
-  background-size: 1450px
+  background-size: cover
+}
+
+#wrapper {
+  padding-bottom: 100px
 }
 
 #sub-wrapper {
